@@ -14,6 +14,8 @@
 //= require rails-ujs
 //= require jquery-ui
 //= require html.sortable
+//= require lib/typed
+//= require typed-implementation
 //= require gritter
 //= require turbolinks
 //= require_tree .
