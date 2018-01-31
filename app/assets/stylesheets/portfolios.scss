@@ -1,5 +1,6 @@
 @import "bootstrap";
 @import "jquery-ui";
+@import "font-awesome";
 
 body {
   min-height: 75rem; /* Can be removed; just added for demo purposes */
@@ -62,6 +63,24 @@ footer p {
 
 /* Custom styles */
 
-.portfolio-form {
-  padding: 20px;
+.portfolio-container {
+  padding-top: 30px;
+}
+
+.box-shadow { 
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+/*
+ * Masthead for nav
+ */
+
+ ol.list-unstyled.social-links {
+  display: flex;
+  justify-content: space-between;
+  text-align: flex-end;
+ }
+
+.social-links li {
+  font-size: 2.5em;
 }
