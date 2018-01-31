@@ -89,38 +89,13 @@ footer p {
   padding-top: 30px;
 }
 
-.portfolio-box{
+.portfolio-box {
   border : 2px solid transparent;    
   -webkit-transition : border 500ms ease-out; 
   -moz-transition : border 500ms ease-out;
   -o-transition : border 500ms ease-out;
 }
 
-.portfolio-box:hover{
+.portfolio-box:hover {
   border : 2px solid #d3d3d3;
-}
-
- ol.list-unstyled.social-links {
-  display: flex;
-  justify-content: space-between;
-  text-align: flex-end;
- }
-
-.social-links li {
-  font-size: 2.5em;
-}
-
-/* Nav links */
-.nav-link {
-  position: relative;
-  font-weight: 500;
-  color: #cdddeb;
-  background-color: dimgray;
-  text-align: center;
-}
-
-.nav-link:hover,
-.nav-link:focus {
-  color: #fff;
-  background-color: transparent;
 }
