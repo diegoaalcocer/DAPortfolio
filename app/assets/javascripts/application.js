@@ -13,12 +13,12 @@
 //= require jquery
 //= require jquery_ujs
 //= require jquery-ui
-//= require rails-ujs
 //= require html.sortable
 //= require gritter
 //= require lib/typed
 //= require typed-implementation
 //= require cable
+//= require rails-ujs
 //= require turbolinks
 //= require_tree .
 //= require bootstrap-sprockets
