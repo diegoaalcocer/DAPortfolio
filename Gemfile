@@ -62,5 +62,6 @@ gem 'carrierwave-aws', '~> 1.3'
 gem 'mini_magick', '~> 4.8'
 gem 'gritter', '~> 1.2'
 gem 'rails_12factor'
+gem 'popper_js'
 
 ruby "2.4.1" 
