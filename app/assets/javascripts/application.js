@@ -22,4 +22,5 @@
 //= require turbolinks
 //= require_tree .
 //= require popper
+//= require popover_config
 //= require bootstrap-sprockets
